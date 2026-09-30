@@ -1,0 +1,542 @@
+[
+  {
+    "id": "hp-001",
+    "title": "SoundWave Lite Wireless Headphones",
+    "category": "headphones",
+    "price_inr": 1299,
+    "rating": 4.1,
+    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400",
+    "description": "Budget wireless over-ear with balanced sound for daily listening.",
+    "specs": {
+      "battery_life": "20 hours",
+      "sound_quality": "Good",
+      "noise_cancellation": "None",
+      "connectivity": "Bluetooth 5.0"
+    }
+  },
+  {
+    "id": "hp-002",
+    "title": "BassPro Studio 300",
+    "category": "headphones",
+    "price_inr": 2499,
+    "rating": 4.4,
+    "image_url": "https://images.unsplash.com/photo-1487215078519-e21cc028cb29?w=400",
+    "description": "Deep bass tuning with comfortable ear cushions for long sessions.",
+    "specs": {
+      "battery_life": "30 hours",
+      "sound_quality": "Very Good",
+      "noise_cancellation": "Passive",
+      "connectivity": "Bluetooth 5.2"
+    }
+  },
+  {
+    "id": "hp-003",
+    "title": "QuietAir ANC Pro",
+    "category": "headphones",
+    "price_inr": 3499,
+    "rating": 4.6,
+    "image_url": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=400",
+    "description": "Active noise cancellation with clear mids and highs under 3500.",
+    "specs": {
+      "battery_life": "28 hours",
+      "sound_quality": "Excellent",
+      "noise_cancellation": "Active ANC",
+      "connectivity": "Bluetooth 5.3"
+    }
+  },
+  {
+    "id": "hp-004",
+    "title": "ZenPods Air TWS",
+    "category": "headphones",
+    "price_inr": 1999,
+    "rating": 4.2,
+    "image_url": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=400",
+    "description": "True wireless earbuds with punchy sound and compact case.",
+    "specs": {
+      "battery_life": "24 hours with case",
+      "sound_quality": "Good",
+      "noise_cancellation": "None",
+      "connectivity": "Bluetooth 5.1"
+    }
+  },
+  {
+    "id": "hp-005",
+    "title": "AudioCraft HD 500",
+    "category": "headphones",
+    "price_inr": 3299,
+    "rating": 4.5,
+    "image_url": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=400",
+    "description": "Audiophile-tuned wireless with wide soundstage for music lovers.",
+    "specs": {
+      "battery_life": "35 hours",
+      "sound_quality": "Excellent",
+      "noise_cancellation": "Passive",
+      "connectivity": "Bluetooth 5.2 + aptX"
+    }
+  },
+  {
+    "id": "hp-006",
+    "title": "TravelMute ANC Fold",
+    "category": "headphones",
+    "price_inr": 4999,
+    "rating": 4.7,
+    "image_url": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=400",
+    "description": "Foldable travel headphones with strong ANC and premium build.",
+    "specs": {
+      "battery_life": "40 hours",
+      "sound_quality": "Excellent",
+      "noise_cancellation": "Active ANC",
+      "connectivity": "Bluetooth 5.3"
+    }
+  },
+  {
+    "id": "hp-007",
+    "title": "GrooveBeat On-Ear Mini",
+    "category": "headphones",
+    "price_inr": 1599,
+    "rating": 3.9,
+    "image_url": "https://images.unsplash.com/photo-1524678606375-a086202e7562?w=400",
+    "description": "Lightweight on-ear wireless for commuting and calls.",
+    "specs": {
+      "battery_life": "18 hours",
+      "sound_quality": "Fair",
+      "noise_cancellation": "None",
+      "connectivity": "Bluetooth 5.0"
+    }
+  },
+  {
+    "id": "hp-008",
+    "title": "CrystalSound Pro X",
+    "category": "headphones",
+    "price_inr": 2799,
+    "rating": 4.3,
+    "image_url": "https://images.unsplash.com/photo-1572536147248-ac59a8abfa4b?w=400",
+    "description": "Clear vocals and detailed treble for podcasts and music.",
+    "specs": {
+      "battery_life": "32 hours",
+      "sound_quality": "Very Good",
+      "noise_cancellation": "Passive",
+      "connectivity": "Bluetooth 5.2"
+    }
+  },
+  {
+    "id": "hp-009",
+    "title": "SilentComm Office ANC",
+    "category": "headphones",
+    "price_inr": 4199,
+    "rating": 4.5,
+    "image_url": "https://images.unsplash.com/photo-1618754882100-99a789dcfa76?w=400",
+    "description": "Office-focused ANC with dual mics for video calls.",
+    "specs": {
+      "battery_life": "25 hours",
+      "sound_quality": "Very Good",
+      "noise_cancellation": "Active ANC",
+      "connectivity": "Bluetooth 5.2 + USB dongle"
+    }
+  },
+  {
+    "id": "hp-010",
+    "title": "PulseBuds Sport",
+    "category": "headphones",
+    "price_inr": 2299,
+    "rating": 4.0,
+    "image_url": "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?w=400",
+    "description": "Sweat-resistant earbuds with secure fit for workouts.",
+    "specs": {
+      "battery_life": "22 hours with case",
+      "sound_quality": "Good",
+      "noise_cancellation": "None",
+      "connectivity": "Bluetooth 5.1"
+    }
+  },
+  {
+    "id": "hp-011",
+    "title": "Harmony Wireless 450",
+    "category": "headphones",
+    "price_inr": 1899,
+    "rating": 4.1,
+    "image_url": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=400",
+    "description": "All-round wireless headphones with decent clarity under 2000.",
+    "specs": {
+      "battery_life": "26 hours",
+      "sound_quality": "Good",
+      "noise_cancellation": "None",
+      "connectivity": "Bluetooth 5.0"
+    }
+  },
+  {
+    "id": "hp-012",
+    "title": "NeoSound ANC Lite",
+    "category": "headphones",
+    "price_inr": 2999,
+    "rating": 4.4,
+    "image_url": "https://images.unsplash.com/photo-1545127398-14699f92334b?w=400",
+    "description": "Entry ANC with warm sound signature and fast charge.",
+    "specs": {
+      "battery_life": "30 hours",
+      "sound_quality": "Very Good",
+      "noise_cancellation": "Active ANC",
+      "connectivity": "Bluetooth 5.2"
+    }
+  },
+  {
+    "id": "hp-013",
+    "title": "StudioPure Reference",
+    "category": "headphones",
+    "price_inr": 5999,
+    "rating": 4.8,
+    "image_url": "https://images.unsplash.com/photo-1585298723682-7114561a4b7f?w=400",
+    "description": "Neutral tuning for creators and critical listening.",
+    "specs": {
+      "battery_life": "45 hours",
+      "sound_quality": "Excellent",
+      "noise_cancellation": "Active ANC",
+      "connectivity": "Bluetooth 5.3 + LDAC"
+    }
+  },
+  {
+    "id": "hp-014",
+    "title": "KidsSafe Volume Limit",
+    "category": "headphones",
+    "price_inr": 1499,
+    "rating": 4.0,
+    "image_url": "https://images.unsplash.com/photo-1613040816064-784c378027cf?w=400",
+    "description": "Volume-limited wireless headphones for children.",
+    "specs": {
+      "battery_life": "15 hours",
+      "sound_quality": "Good",
+      "noise_cancellation": "None",
+      "connectivity": "Bluetooth 5.0"
+    }
+  },
+  {
+    "id": "hp-015",
+    "title": "CloudComfort Over-Ear",
+    "category": "headphones",
+    "price_inr": 3399,
+    "rating": 4.3,
+    "image_url": "https://images.unsplash.com/photo-1611195974226-ef8750e7879e?w=400",
+    "description": "Plush ear pads and balanced sound for all-day wear.",
+    "specs": {
+      "battery_life": "38 hours",
+      "sound_quality": "Very Good",
+      "noise_cancellation": "Passive",
+      "connectivity": "Bluetooth 5.2"
+    }
+  },
+  {
+    "id": "hp-016",
+    "title": "BudgetBeats Entry",
+    "category": "headphones",
+    "price_inr": 899,
+    "rating": 3.7,
+    "image_url": "https://images.unsplash.com/photo-1538043879224-12af90510d05?w=400",
+    "description": "Ultra-affordable wireless on-ear for casual use.",
+    "specs": {
+      "battery_life": "12 hours",
+      "sound_quality": "Fair",
+      "noise_cancellation": "None",
+      "connectivity": "Bluetooth 4.2"
+    }
+  },
+  {
+    "id": "hp-017",
+    "title": "WaveLink Dual Device",
+    "category": "headphones",
+    "price_inr": 3699,
+    "rating": 4.5,
+    "image_url": "https://images.unsplash.com/photo-1627922890809-4dd416d2b2a6?w=400",
+    "description": "Multipoint Bluetooth for laptop and phone simultaneously.",
+    "specs": {
+      "battery_life": "33 hours",
+      "sound_quality": "Very Good",
+      "noise_cancellation": "Active ANC",
+      "connectivity": "Bluetooth 5.3 multipoint"
+    }
+  },
+  {
+    "id": "hp-018",
+    "title": "OpenAir Spatial",
+    "category": "headphones",
+    "price_inr": 4499,
+    "rating": 4.6,
+    "image_url": "https://images.unsplash.com/photo-1599669454699-248893623440?w=400",
+    "description": "Open-back style wireless with spatial audio support.",
+    "specs": {
+      "battery_life": "20 hours",
+      "sound_quality": "Excellent",
+      "noise_cancellation": "None",
+      "connectivity": "Bluetooth 5.3"
+    }
+  },
+  {
+    "id": "hp-019",
+    "title": "CallClear Pro Mic",
+    "category": "headphones",
+    "price_inr": 2199,
+    "rating": 4.2,
+    "image_url": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=400",
+    "description": "Optimized for voice calls with ENC mics.",
+    "specs": {
+      "battery_life": "28 hours",
+      "sound_quality": "Good",
+      "noise_cancellation": "Passive",
+      "connectivity": "Bluetooth 5.1"
+    }
+  },
+  {
+    "id": "hp-020",
+    "title": "Midnight ANC 350",
+    "category": "headphones",
+    "price_inr": 3450,
+    "rating": 4.5,
+    "image_url": "https://images.unsplash.com/photo-1618754882100-99a789dcfa76?w=400",
+    "description": "Sleek design with strong ANC just under premium tier.",
+    "specs": {
+      "battery_life": "31 hours",
+      "sound_quality": "Excellent",
+      "noise_cancellation": "Active ANC",
+      "connectivity": "Bluetooth 5.2"
+    }
+  },
+  {
+    "id": "lp-001",
+    "title": "SwiftBook 14 Lite",
+    "category": "laptop",
+    "price_inr": 42999,
+    "rating": 4.2,
+    "image_url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400",
+    "description": "14-inch laptop for students with all-day battery.",
+    "specs": {
+      "processor": "Intel i3 12th Gen",
+      "ram": "8 GB",
+      "storage": "256 GB SSD",
+      "battery_life": "10 hours"
+    }
+  },
+  {
+    "id": "lp-002",
+    "title": "ProWork 15 Performance",
+    "category": "laptop",
+    "price_inr": 68999,
+    "rating": 4.5,
+    "image_url": "https://images.unsplash.com/photo-1525547719575-a2d4ac9105ee?w=400",
+    "description": "15-inch productivity laptop with dedicated graphics.",
+    "specs": {
+      "processor": "AMD Ryzen 7",
+      "ram": "16 GB",
+      "storage": "512 GB SSD",
+      "battery_life": "8 hours"
+    }
+  },
+  {
+    "id": "lp-003",
+    "title": "UltraThin Air 13",
+    "category": "laptop",
+    "price_inr": 54999,
+    "rating": 4.4,
+    "image_url": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400",
+    "description": "Lightweight ultrabook for travel and remote work.",
+    "specs": {
+      "processor": "Intel i5 13th Gen",
+      "ram": "16 GB",
+      "storage": "512 GB SSD",
+      "battery_life": "12 hours"
+    }
+  },
+  {
+    "id": "lp-004",
+    "title": "GameForge RTX 4060",
+    "category": "laptop",
+    "price_inr": 89999,
+    "rating": 4.6,
+    "image_url": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=400",
+    "description": "Gaming laptop with RTX 4060 and high refresh display.",
+    "specs": {
+      "processor": "Intel i7 13th Gen",
+      "ram": "16 GB",
+      "storage": "1 TB SSD",
+      "battery_life": "5 hours"
+    }
+  },
+  {
+    "id": "lp-005",
+    "title": "BudgetMate 15",
+    "category": "laptop",
+    "price_inr": 35999,
+    "rating": 3.9,
+    "image_url": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=400",
+    "description": "Affordable 15-inch laptop for browsing and office apps.",
+    "specs": {
+      "processor": "Intel i3 11th Gen",
+      "ram": "8 GB",
+      "storage": "512 GB SSD",
+      "battery_life": "7 hours"
+    }
+  },
+  {
+    "id": "lp-006",
+    "title": "CreatorStudio Pro",
+    "category": "laptop",
+    "price_inr": 94999,
+    "rating": 4.7,
+    "image_url": "https://images.unsplash.com/photo-1611186874728-18077bdb2a4a?w=400",
+    "description": "Color-accurate display for photo and video editing.",
+    "specs": {
+      "processor": "Apple M2 Pro equivalent tier",
+      "ram": "32 GB",
+      "storage": "1 TB SSD",
+      "battery_life": "14 hours"
+    }
+  },
+  {
+    "id": "lp-007",
+    "title": "FlexConvert 2-in-1",
+    "category": "laptop",
+    "price_inr": 57999,
+    "rating": 4.3,
+    "image_url": "https://images.unsplash.com/photo-1541807084-5c52b6b3c850?w=400",
+    "description": "Touchscreen convertible with stylus support.",
+    "specs": {
+      "processor": "Intel i5 12th Gen",
+      "ram": "16 GB",
+      "storage": "512 GB SSD",
+      "battery_life": "9 hours"
+    }
+  },
+  {
+    "id": "lp-008",
+    "title": "CloudLite Chrome 14",
+    "category": "laptop",
+    "price_inr": 24999,
+    "rating": 4.0,
+    "image_url": "https://images.unsplash.com/photo-1527864553157-402d5800ec98?w=400",
+    "description": "Chromebook-style cloud laptop for web-first users.",
+    "specs": {
+      "processor": "MediaTek Kompanio",
+      "ram": "8 GB",
+      "storage": "128 GB eMMC",
+      "battery_life": "11 hours"
+    }
+  },
+  {
+    "id": "sp-001",
+    "title": "FitTrack Band 5",
+    "category": "smartwatch",
+    "price_inr": 2999,
+    "rating": 4.1,
+    "image_url": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=400",
+    "description": "Fitness band with heart rate and sleep tracking.",
+    "specs": {
+      "battery_life": "7 days",
+      "display": "AMOLED",
+      "water_resistance": "5 ATM",
+      "gps": "Connected GPS"
+    }
+  },
+  {
+    "id": "sp-002",
+    "title": "PulseWatch Active",
+    "category": "smartwatch",
+    "price_inr": 4999,
+    "rating": 4.4,
+    "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400",
+    "description": "Smartwatch with built-in GPS and workout modes.",
+    "specs": {
+      "battery_life": "5 days",
+      "display": "AMOLED",
+      "water_resistance": "5 ATM",
+      "gps": "Built-in GPS"
+    }
+  },
+  {
+    "id": "sp-003",
+    "title": "ClassicTime Analog Smart",
+    "category": "smartwatch",
+    "price_inr": 7999,
+    "rating": 4.2,
+    "image_url": "https://images.unsplash.com/photo-1434493789847-1f057df87073?w=400",
+    "description": "Hybrid smartwatch with classic dial and notifications.",
+    "specs": {
+      "battery_life": "14 days",
+      "display": "Hybrid",
+      "water_resistance": "3 ATM",
+      "gps": "None"
+    }
+  },
+  {
+    "id": "hp-021",
+    "title": "ValueSound 3200",
+    "category": "headphones",
+    "price_inr": 3200,
+    "rating": 4.3,
+    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400",
+    "description": "Strong value wireless with emphasis on vocal clarity.",
+    "specs": {
+      "battery_life": "29 hours",
+      "sound_quality": "Very Good",
+      "noise_cancellation": "Passive",
+      "connectivity": "Bluetooth 5.2"
+    }
+  },
+  {
+    "id": "hp-022",
+    "title": "DeepQuiet ANC Max",
+    "category": "headphones",
+    "price_inr": 3799,
+    "rating": 4.6,
+    "image_url": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=400",
+    "description": "Premium-feel ANC slightly above 3500 for comparison demos.",
+    "specs": {
+      "battery_life": "36 hours",
+      "sound_quality": "Excellent",
+      "noise_cancellation": "Active ANC",
+      "connectivity": "Bluetooth 5.3"
+    }
+  },
+  {
+    "id": "hp-023",
+    "title": "Everyday Wireless 2800",
+    "category": "headphones",
+    "price_inr": 2800,
+    "rating": 4.2,
+    "image_url": "https://images.unsplash.com/photo-1487215078519-e21cc028cb29?w=400",
+    "description": "Reliable daily driver with multipoint and fast pairing.",
+    "specs": {
+      "battery_life": "27 hours",
+      "sound_quality": "Very Good",
+      "noise_cancellation": "None",
+      "connectivity": "Bluetooth 5.2 multipoint"
+    }
+  },
+  {
+    "id": "hp-024",
+    "title": "StudioFold Wireless",
+    "category": "headphones",
+    "price_inr": 3100,
+    "rating": 4.4,
+    "image_url": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=400",
+    "description": "Foldable design with detailed sound under 3200.",
+    "specs": {
+      "battery_life": "34 hours",
+      "sound_quality": "Excellent",
+      "noise_cancellation": "Passive",
+      "connectivity": "Bluetooth 5.2"
+    }
+  },
+  {
+    "id": "hp-025",
+    "title": "ANC Essential 3400",
+    "category": "headphones",
+    "price_inr": 3400,
+    "rating": 4.5,
+    "image_url": "https://images.unsplash.com/photo-1618754882100-99a789dcfa76?w=400",
+    "description": "Essential ANC package with balanced tuning.",
+    "specs": {
+      "battery_life": "30 hours",
+      "sound_quality": "Very Good",
+      "noise_cancellation": "Active ANC",
+      "connectivity": "Bluetooth 5.2"
+    }
+  }
+]
